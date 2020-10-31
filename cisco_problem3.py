@@ -1,4 +1,4 @@
-import regex as re
+import re
 input = "(ab(c){2}d){2}(ab){2}"
 expected_output = "abccdabccdabab"
 
